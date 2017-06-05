@@ -99,7 +99,7 @@ text:
   index:
     coming_soon: 'Coming soon...'
   contact:
-    email:    'hashimshafiq0@gmail.com'
+    email:    'xyz@domain.com'
     content:  'What would you like to say?'
     subject:  'Blog Email'
     submit:   'Send'
