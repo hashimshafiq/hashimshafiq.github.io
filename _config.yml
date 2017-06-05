@@ -99,10 +99,10 @@ text:
   index:
     coming_soon: 'Coming soon...'
   contact:
-    email:    'Email Address'
+    email:    'hashimshafiq0@gmail.com'
     content:  'What would you like to say?'
-    subject:  'New submission!'
-    submit:   'Say Hello'
+    subject:  'Blog Email'
+    submit:   'Send'
     ajax:
       sending:  'sending..'
       sent:     'Message sent!'
